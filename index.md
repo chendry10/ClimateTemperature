@@ -36,7 +36,7 @@ To answer this question we created graphs and used the highly scientific “eyeb
 
 The way that we were able to compare these two dataset was by using a time series and merging the two separate data frames together on the time column. We also only used yearly data averaged on January 1st of every year. One of the bigger issues that came up was how to plot data with two different units on the same graph. The way we solved this is by having two different y-axes, one on the left and one on the right side of the graph, so that we could see both graphs together on the same chart. 
 
-{% include_relative Graph1.ipynb - Colab.html %}
+{% Graph1.html %}
 
 The above is change in degrees celsius and change in tons of carbon dioxide emissions plotted on the same graph. We observed that a change in carbon dioxide emissions is followed by a change in temperature after two to five years. This is reasonable because climate change is a slow process that happens over years not months or days. Carbon dioxide  emitted from someone’s tailpipe probably does not instantly affect the temperature which explains the lag in the data. 
 
