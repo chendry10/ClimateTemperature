@@ -17,6 +17,6 @@ layout: default
 # **CAMERON HENDRY**  
 📍 **Location**: Washington
 
-[]
+
 
 [Main Page](https://chendry10.github.io/WhereSchueller/)
