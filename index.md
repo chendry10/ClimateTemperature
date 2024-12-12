@@ -14,17 +14,14 @@ layout: default
   </button>
 </a>
 
-# **CAMERON HENDRY**  
+# **Cameron Hendry and Eli Buffington**  
 📍 **Location**: Washington
 
 # Climate and Temperature Relationship   
 
 Colab Worksheet Link: [Colab Worksheet](https://colab.research.google.com/drive/1a815bSpUQKNHV3Yl7JRPFRlocT8gW4Dt)  
 
-# Correlation between carbon dioxide  emissions and Temperature in the United States
-
-
-## Eli Buffington and Cameron Hendry 
+# Correlation between carbon dioxide  emissions and Temperature in the United States  
 
 
 # Introduction
