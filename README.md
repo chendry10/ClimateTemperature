@@ -4,35 +4,9 @@ Colab Worksheet Link: [Colab Worksheet](https://colab.research.google.com/drive/
 
 # Correlation between carbon dioxide  emissions and Temperature in the United States
 
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
 
 ## Eli Buffington and Cameron Hendry 
 
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
 
 # Introduction
 
