@@ -52,6 +52,8 @@ In this graph we shifted the temperature graph by 5 years to showcase how the de
 
 We used this shifted data to run a linear regression on change in degrees celsius after the shift and change in tons of carbon dioxide emissions, with change in tons of carbon dioxide emissions as our independent variable and shifted change in degrees celsius as the dependent variable. The regression had an R2 of 0.069, which means that only 6.9% of the change in temperature was explained by a change in carbon dioxide emissions. The regression equation is displayed on the following graph. The p-value on the coefficient on change in tons of carbon dioxide emissions was 0.216, which is far above the statistically significant value of 0.05. This means that we cannot reject the null and we cannot conclude that the effects were anything but chance. 
 
+{% include_relative fig4.html %}
+
 This is a graph with the difference in yearly carbon dioxide emissions as the independent variable and the shifted difference in yearly temperature as the dependent variable, with the line of best fit plotted over the data points. This graph explains our medium p-value, as our data does not follow the line well but there appears to be some sort of collocation which explains our lower p-value, although not enough to be statistically significant. Additionally, the slope of the line is positive, which implies that increasing carbon dioxide dioxide correlates with an increase in temperature, which shows that this is likely closer to the truth than the previous analysis.
 
 # Conclusions
