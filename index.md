@@ -14,11 +14,6 @@ layout: default
   </button>
 </a>
 
-# **Cameron Hendry and Eli Buffington**  
-
-# Correlation between carbon dioxide emissions and Temperature in the United States  
-
-
 # Introduction
 
 The data that we used was temperature data from the United States and also carbon dioxide data from the United States from 1991 to 2019\. These were two separate datasets. We did not have too many issues with the data. Downloading the data was made simple by the website that we were downloading from allowing us to choose different time periods and sample frequencies. The most difficult part was lining up the data and merging the two dataframes together which we eventually got working. 
