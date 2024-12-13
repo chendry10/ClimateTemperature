@@ -40,7 +40,7 @@ The above is change in degrees celsius and change in tons of carbon dioxide emis
 
 We used this data to run a linear regression on change in degrees celsius and change in tons of carbon dioxide emissions, with change in tons of carbon dioxide emissions as our independent variable and change in degrees celsius as the dependent variable. The regression had an R2 of 0.024, which means that only 2.4% of the change in temperature was explained by a change in carbon dioxide emissions. The regression equation is displayed on the following graph. The p-value on the coefficient on change in tons of carbon dioxide emissions was 0.421, which is far above the statistically significant value of 0.05. This means that we cannot reject the null and we cannot conclude that the effects were anything but chance. 
 
-{% include_relative fig2.html %}
+{% include_relative fig2 %}
 
 This is a graph with difference in yearly carbon dioxide emissions as the independent variable and difference in yearly temperature as the dependent variable, with the line of best fit plotted over the data points. This graph explains our low p-value, as our data does not follow the line. Additionally, the slope of the line is negative, which implies that increasing carbon dioxide dioxide correlates with a decrease in temperature, which is illogical.
 
