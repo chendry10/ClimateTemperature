@@ -46,6 +46,7 @@ This is a graph with difference in yearly carbon dioxide emissions as the indepe
 
 We then shifted the data for temperature by ten years in either direction and calculated the correlation coefficient for each. We then took the highest one and shifted our data by that amount. In our case, we concluded the offset was \-5, meaning that the change in carbon dioxide emissions was most correlated to temperature changes in 5 years.
 
+{% include_relative fig3.html %}
 
 In this graph we shifted the temperature graph by 5 years to showcase how the delay lines up and dropped 5 years off the end of both graphs. This graph shows how the CO2 emissions would affect the temperature if the effects were instantaneous. A bunch of the peaks and valleys line up pretty perfectly near the beginning and for some reason near the end there is less correlation which we are still unable to explain. 
 
