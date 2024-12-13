@@ -19,8 +19,6 @@ layout: default
 
 # Climate and Temperature Relationship   
 
-Colab Worksheet Link: [Colab Worksheet](https://colab.research.google.com/drive/1a815bSpUQKNHV3Yl7JRPFRlocT8gW4Dt)  
-
 # Correlation between carbon dioxide  emissions and Temperature in the United States  
 
 
