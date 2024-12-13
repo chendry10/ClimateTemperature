@@ -1,8 +1,4 @@
-# Climate and Temperature Relationship   
-
-Colab Worksheet Link: [Download file](https://github.com/chendry10/ClimateTemperature/raw/main/FinalProject.ipynb)
-# Correlation between carbon dioxide  emissions and Temperature in the United States
-
+# Correlation between carbon dioxide emissions and Temperature in the United States
 
 ## Eli Buffington and Cameron Hendry 
 
