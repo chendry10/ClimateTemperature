@@ -24,7 +24,7 @@ layout: default
 
 # Introduction
 
-## The data that we used was temperature data from the United States and also carbon dioxide data from the United States from 1991 to 2019\. These were two separate datasets. We did not have too many issues with the data. Downloading the data was made simple by the website that we were downloading from allowing us to choose different time periods and sample frequencies. The most difficult part was lining up the data and merging the two dataframes together which we eventually got working. 
+The data that we used was temperature data from the United States and also carbon dioxide data from the United States from 1991 to 2019\. These were two separate datasets. We did not have too many issues with the data. Downloading the data was made simple by the website that we were downloading from allowing us to choose different time periods and sample frequencies. The most difficult part was lining up the data and merging the two dataframes together which we eventually got working. 
 
 The question we wanted to answer was: Is there a correlation between CO2 emissions and Temperature?
 
