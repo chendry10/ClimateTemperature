@@ -15,11 +15,8 @@ layout: default
 </a>
 
 # **Cameron Hendry and Eli Buffington**  
-📍 **Location**: Washington
 
-# Climate and Temperature Relationship   
-
-# Correlation between carbon dioxide  emissions and Temperature in the United States  
+# Correlation between carbon dioxide emissions and Temperature in the United States  
 
 
 # Introduction
